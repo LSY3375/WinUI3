@@ -1,0 +1,17 @@
+﻿<Window
+    x:Class="Final2.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Final2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Image Height="Auto" Width="Auto">
+            <Image.Source>
+                <BitmapImage UriSource="https://modo-phinf.pstatic.net/20201121_101/1605925549151Sc0Kb_JPEG/mosajb8iV4.jpeg" />
+            </Image.Source>
+        </Image>
+    </Grid>
+</Window>
